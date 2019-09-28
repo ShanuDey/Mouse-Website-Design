@@ -1,0 +1,13 @@
+body {
+	background : url("images/image9.jpg") no-repeat center center fixed;
+	display: table;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+	height: 100%;
+}
+
+.jumbotron{
+	background: transparent;
+	color: #fff;
+}
